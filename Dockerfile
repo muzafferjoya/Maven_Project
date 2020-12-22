@@ -1,5 +1,5 @@
 # Pull base image 
-From nginx 
+From tomcat:8-jre8 
 
 # Maintainer 
 MAINTAINER "muzafferjoya@gmail.com" 
